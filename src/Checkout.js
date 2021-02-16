@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Checkout.css"
-import Subtotal from "./Subtotal"
+import Subtotal from "./Subtotal";
 const Checkout = () => {
     return (
         <div className="checkout">
@@ -19,4 +19,4 @@ const Checkout = () => {
     )
 }
 
-export default Checkout
+export default Checkout;
